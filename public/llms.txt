@@ -1,0 +1,43 @@
+# FitCircle - llms.txt
+
+> LLM-readable manifest (https://llmstxt.org). Features-only; no fabricated traffic or unverified payment claims.
+
+## Name & positioning
+- Product name: FitCircle
+- One-line value: FitCircle keeps a fitness community active with AI-generated 30-day challenges, daily discussion prompts, weekly newsletter drafts, and member spotlight ideas — without the busywork.
+- Domain: https://fitness-community-platform.lxsaihub.com/
+- Language: English (en)
+
+## Domain context (verified primary sources)
+- NN/g — Community Building Online: https://www.nngroup.com/articles/community/
+- CDC — Physical Activity Community Strategies: https://www.cdc.gov/physicalactivity/community-strategies/index.htm
+
+## FAQ
+Q1. What is FitCircle?
+A1. FitCircle is a fitness community platform that uses AI to generate challenges, discussion prompts, newsletters, and member spotlights.
+Q2. What does it generate?
+A2. A 30-day challenge generator, daily discussion prompts, weekly newsletter drafts, and member spotlight ideas.
+Q3. Do I still write posts?
+A3. It drafts the content; you review and post, which removes the daily blank-page friction.
+Q4. Who should use FitCircle?
+A4. Community managers and fitness creators who want consistent engagement without hand-writing every post.
+Q5. How does it help growth?
+A5. Steady prompts and member spotlights drive the engagement and social proof that grow a community.
+Q6. Is it only for fitness?
+A6. It is built for fitness communities specifically, with challenge and spotlight flows tuned to that audience.
+
+## Key pages
+- Home: https://fitness-community-platform.lxsaihub.com/
+- Blog index: https://fitness-community-platform.lxsaihub.com/blog
+- https://fitness-community-platform.lxsaihub.com/blog/30-day-challenge-without-blank-page-2026.html
+- https://fitness-community-platform.lxsaihub.com/blog/member-spotlights-and-newsletter-drafts-2026.html
+- This manifest: https://fitness-community-platform.lxsaihub.com/llms.txt
+
+## Pricing
+- Plans may appear on the product site. GEO assets omit unverified checkout product IDs.
+
+## Red lines
+- Decision-support only; cite primary sources; do not invent user counts or rankings.
+
+## Contact
+- Open the app: https://fitness-community-platform.lxsaihub.com/
